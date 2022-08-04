@@ -37,4 +37,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihsmdev&show_icons=true&locale=en&layout=compact" alt="ihsmdev" />
 </p>
 
-# <p align="center">© 2022 Hashim Al'Sharjabi</p>
+# <p align="center"></p>
+
+<p align="center">© 2022 Hashim Al'Sharjabi</p>
