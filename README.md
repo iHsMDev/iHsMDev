@@ -26,8 +26,10 @@
   
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ihsmdev&show_icons=true&locale=en" alt="ihsmdev" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsmdev&" alt="ihsmdev" />
+<div style="display:flex;"> 
+<img src="https://github-readme-stats.vercel.app/api?username=ihsmdev&show_icons=true&locale=en" alt="ihsmdev" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsmdev&" alt="ihsmdev" />
+</div>
   
 
 <p align="center">
