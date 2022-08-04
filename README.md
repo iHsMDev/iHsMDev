@@ -3,11 +3,11 @@
 
 
 
- #  <p>Who is HsM?</p>
+ #  <p> <img width="25px;" src="./Images/user.png"> Who is HsM?</p>
 
   <p style="position: absolute">I’m Hashim, AKA HsM, from Saudi Arabia, I am a Ui Designer and Web Developer</p>
   
- #  <p>What is my goal?</p>
+ #  <p><img width="25px;" src="./Images/bullseye.png"> What is my goal?</p>
   <p>My goal is to enter the developers world and become one of the best developers.</p>
   
  <p align="left">Connect with me:</p>
@@ -20,7 +20,7 @@
   <br>
   
   
-  # <p>Some stats from GitHub:</p>
+  # <p><img width="25px;" src="./Images/github.png"> Some stats from GitHub:</p>
   
 
 
