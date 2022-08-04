@@ -26,8 +26,8 @@
 
 
 <div style="display:flex; flex-wrap:nowrap"> 
-<img src="https://github-readme-stats.vercel.app/api?username=ihsmdev&show_icons=true&locale=en" alt="ihsmdev" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsmdev&" alt="ihsmdev" />
+<img style="display:flex; flex-wrap:nowrap" src="https://github-readme-stats.vercel.app/api?username=ihsmdev&show_icons=true&locale=en" alt="ihsmdev" />
+<img style="display:flex; flex-wrap:nowrap" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsmdev&" alt="ihsmdev" />
 </div>
   
 
