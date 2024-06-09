@@ -1,5 +1,5 @@
 
-<img src="./Images/banner.png">
+<img src="./Images/Banner.png">
 
 
 
